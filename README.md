@@ -1,1 +1,0 @@
-# elanurgul.github.io
