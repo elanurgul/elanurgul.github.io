@@ -1,0 +1,45 @@
+{
+  "Fakulteler": [
+    {
+      "Heading": "Teknoloji Fakultesi",
+      "Name": "Ali GUNGOR",
+      "Mail":"agungor@karabuk.edu.tr",
+      
+    },
+    {
+      "Heading": "F.Toker Güzel Sanatlar ve Tasarım Fakultesi",
+      "Name": "Ismail Rakip KARAS",
+      "Mail":"ismail.karas@karabuk.edu.tr",
+      
+    },
+    {
+      "Heading": "Muhendislik Fakultesi ",
+      "Name": " Mehmet OZALP",
+      "Mail":"mozalp@karabuk.edu.tr",
+      
+    },
+    {
+      "Heading": "Mimarlik Fkultesi",
+      "Name": "Ali OZCAGLAR",
+      "Mail":"aliozcaglar@karabuk.edu.tr",
+      
+    },
+    {
+      "Heading": "IIBF",
+      "Name": "Abdullah KARAKAYA",
+      "Mail":"akarakaya@karabuk.edu.tr",
+      
+    },
+    {
+      "Heading": "Edebiyat Fakultesi",
+      "Name": "Murat AGARI",
+      "Mail":"muratagari@krabuk.edu.tr",
+      
+    },
+    {
+      "Heading": "Fen Fakultesi",
+      "Name": "Yasin ARSLAN",
+      "Mail":"yasinarslan@karabuk.edu.tr",
+    }
+  ]
+}
